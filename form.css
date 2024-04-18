@@ -1,0 +1,33 @@
+*{
+    font: 150% Arial, Helvetica, sans-serif;
+    margin: 20px;
+   background-image: url(food.jpg);
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+ h1{
+    color:orangered;
+    margin-left: 5em;
+}
+label {
+    color: orangered;
+    float: left;
+    width: 10em;
+    font-weight: bold;
+    text-align: center;
+    }
+
+input {
+    width: 15em;
+    margin-left: 1em;
+    margin-bottom: .5em;}
+
+    #button {
+        width: 10em;
+        box-shadow: 2px 2px 0 orangered;
+        background-color: rgb(244, 236, 195); }
+    
+    #button { 
+        margin-left: 9.5em; }

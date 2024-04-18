@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: orangered;
+}
+h2{
+    color: orangered;
+    text-align: center;
+}
+div img{
+    height: 400px;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+dt{
+    color: orangered;
+    font-weight: bold;
+}
+dd{
+    color: orangered;
+    font-weight: bold;
+}
